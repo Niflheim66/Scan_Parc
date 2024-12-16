@@ -1,0 +1,13 @@
+{
+  "appId": "com.vehicletracking.app",
+  "appName": "Vehicle Tracking",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
